@@ -5,6 +5,11 @@ body {
   width: 100%;
 }
 
+.altpadding {
+  padding-top: 0;
+  padding-left: 5vw;
+}
+
 .contact {
   padding: 0vw 5vw 0vw 5vw;
 }
